@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Carnaiba2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="poema">Ah! Amada terra como posso desvendar-te!\n
+Que flautas e macacás festejavam a dança dos teus índios?\n
+Que danças e cantos inauguraram a tua arte Cariri?\n
+Fostes anfitriã dos almocreves e sertanejos que cruzavam teu caminho,\n
+        Qual pássaro cantou mais alto no dia que o fundador te avistou?\n
+Como zoavam as águas do antigo Pajeú?\n
+Que sons produziam as galhas das tuas lendárias cajaranas?\n
+Que hinos foram cantados nas novenas a Santo Antônio Pequenino?\n
+</string>
+
+</resources>
