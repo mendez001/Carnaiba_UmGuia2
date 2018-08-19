@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "148402887938",
+    "firebase_url": "https://umguiaparacarnaiba.firebaseio.com",
+    "project_id": "umguiaparacarnaiba",
+    "storage_bucket": "umguiaparacarnaiba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148402887938:android:f817ed422bfccc97",
+        "android_client_info": {
+          "package_name": "com.example.davi.carnaiba2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148402887938-jpok7psc00rarsn61v7f1eha1r38k8a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.davi.carnaiba2",
+            "certificate_hash": "2488f272bca64f92ae40d23fe9b764af6ea112e2"
+          }
+        },
+        {
+          "client_id": "148402887938-a07lbgr1us6psnhe4g45925du27talbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChczqcRg-wLtitZmtoeXtsb7CwoZcTOxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148402887938-a07lbgr1us6psnhe4g45925du27talbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
