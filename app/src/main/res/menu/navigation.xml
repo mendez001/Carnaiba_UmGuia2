@@ -16,4 +16,9 @@
         android:icon="@drawable/ic_baseline_terrain_24px"
         android:title="Locais Geográficos" />
 
+    <item
+        android:id="@+id/navigation_locais"
+        android:icon="@drawable/ic_baseline_place_24px"
+        android:title="Locais Importantes" />
+
 </menu>

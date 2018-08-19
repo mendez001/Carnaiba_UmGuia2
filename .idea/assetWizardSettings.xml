@@ -16,10 +16,25 @@
                             <entry key="launcher">
                               <value>
                                 <PersistentState>
+                                  <option name="children">
+                                    <map>
+                                      <entry key="foregroundImage">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="scalingPercent" value="128" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                    </map>
+                                  </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="foregroundImage" value="C:\Users\Davi\Desktop\936457_495073507228212_1791135425_n.jpg" />
-                                      <entry key="foregroundLayerName" value="pedra_da_janela" />
+                                      <entry key="foregroundImage" value="C:\Users\Davi\Desktop\resapp\zedan-768x432.jpg" />
+                                      <entry key="foregroundLayerName" value="museu" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -46,8 +61,8 @@
                         <option name="values">
                           <map>
                             <entry key="assetSourceType" value="FILE" />
-                            <entry key="outputName" value="ic_baseline_terrain_24px" />
-                            <entry key="sourceFile" value="C:\Users\Davi\Downloads\baseline-terrain-24px.svg" />
+                            <entry key="outputName" value="ic_baseline_place_24px" />
+                            <entry key="sourceFile" value="C:\Users\Davi\Downloads\baseline-place-24px.svg" />
                           </map>
                         </option>
                       </PersistentState>

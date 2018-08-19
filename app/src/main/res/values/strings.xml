@@ -4,14 +4,48 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
 
-    <string name="poema">Ah! Amada terra como posso desvendar-te!\n
-Que flautas e macacás festejavam a dança dos teus índios?\n
-Que danças e cantos inauguraram a tua arte Cariri?\n
-Fostes anfitriã dos almocreves e sertanejos que cruzavam teu caminho,\n
-        Qual pássaro cantou mais alto no dia que o fundador te avistou?\n
-Como zoavam as águas do antigo Pajeú?\n
-Que sons produziam as galhas das tuas lendárias cajaranas?\n
-Que hinos foram cantados nas novenas a Santo Antônio Pequenino?\n
+    <string name="poema">A palavra Carnaíba, é uma corruptela de Carnauba, árvore existente em abundancia no local, pois nos festejos Antoninos. \n
+            O distrito de Carnaíba foi criado pela Lei municipal nº 4 de 29 de julho de 1893, sendo emancipado politicamente no dia 30 de dezembro de 1953, por força da Lei Estadual nº 1818, essa mesma Lei criou a Comarca de Carnaíba, sendo instalada em 04 de junho de 1954, ficando com os distritos de Carnaíba e Ibitiranga, pois o distrito de Quixaba só criado em 1962. \n
+            O município está localizado na Macroregião do Sertão Pernambucano e na Microregião do Pajeu, com uma área territorial de 427,9 km2, limitando-se ao Norte com o Estado da Paraíba e Solidão, ao Sul com Custódia, ao Leste com Afogados da Ingazeira, ao Oeste com Flores e Quixaba. \n
+    A sede Municipal está a 500m de altitude em relação ao nível do Mar, tem sua posição geográfica determinada pelo paralelo de -7º48'18,0 da latitude -37º47'38,4 de longitude.
+O clima é semiárido quente, com temperaturas variando entre 20º C e 36ºC.
 </string>
+    <string name="biblioteca">O prédio onde está localizada a atual Biblioteca Pública,
+        é a antiga estação de trem da cidade de Carnaíba. A estação de Carnaíba foi inaugurada em 1954 ou 1955. Estava no primeiro trecho entregue já pela Rede Ferroviária do Nordeste (RFN), entre os anos de 1954 e 1955. A estação
+        esteve abandonada por um bom tempo, mas depois foi muito bem restaurada e hoje serve como biblioteca pública do município.
+</string>
+    <string name="matriz">Há 71 anos atras, foi erguida a torre e edificada a sacristia, dai então restava, logo em seguida, o elemento mais importante – a suntuosa ABÓBADA. Estava nas intenções do saudoso Padre Frederico Bezerra Maciel em dotar Carnaíba de uma igreja matriz que fosse um monumental conjunto arquitetônico de expressiva beleza e marcante simbolismo espiritual.
+</string>
+    <string name="praca">A estação de Carnaíba foi inaugurada em 1954 ou 1955. Estava no primeiro trecho entregue já pela Rede Ferroviária do Nordeste (RFN), entre os anos de 1954 e 1955. Serviu por um tempo como feira do gado e agora abriga a Praça de Eventos Milton Bezerra das Chagas.</string>
+    <string name="gruta">A Praça Nossa Senhora de Lourdes foi inaugurada no ano 1966, pelo então prefeito municipal Milton Bezerra das Chagas,
+        era conhecida também pelo apelido de "Praça das Algarobas". Passou por diversas reformas, a última acontecendo em 2005 e permanecendo como está atualmente.
+</string>
+    <string name="antigo_forum">O prédio abrigou a antiga prefeitura, sendo a segunda sede do governo municipal, funcionou como usina de Beneficiamento de algodão nos anos 40, e até 2012 como fórum da Comarca de Carnaíba, atualmente abriga a Secretaria de AssistÊncia Social.
+</string>
+    <string name="radio">Antiga Casa Paroquial pertencente aos Padres Frederico Bezerra Maciel e Luiz Gonzaga Vieira de Melo, atualmente funciona a Rádio Cristo Redentor.
+</string>
+    <string name="capela_colonia">Capela em honra a Santo Antônio erguida em meados de 1800, construída na Fazenda Colônia, na Serra da Colônia, pela família do Cangaceiro Antônio Silvino.
+</string>
+    <string name="pedra_da_janela">Pedra localizada no topo da Serra da Matinha, tem uma fenda que a quebra ao meio, daí vem o seu nome, é refúgio de campistas devido seu formato.</string>
+    <string name="serra_matinha">A serra da Matinha localiza-se na comunidade de Boqueirão, pertencente ao município de Carnaíba. O topo da Serra fica a cerca de 970 metros de altitude em relação ao nível do mar e é considerada a segunda maior da região do Pernambuco, perdendo apenas para o Pico do Papagaio localizado no município de Triunfo.
+</string>
+    <string name="serra_colonia">Montanha que se localiza próximo ao Distrito de Ibitiranga, cadeia montanhosa, na qual se encontra a histórica Fazenda Colônia, pertencente à Família de Antônio Silvino.
+</string>
+    <string name="serra_giz">Área entre os municípios de Afogados da Ingazeira e Carnaíba, tem pinturas rupestres em diversas montanhas, e trilhas para apreciação da mata.
+</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
 
 </resources>
